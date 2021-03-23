@@ -51,9 +51,9 @@ SOFTWARE.
 
 ## Deployment
 
-Live Deployed Application: [View Application](/ "Live Deploy")      
+Live Deployed Application: [View Application](https://dry-cove-74526.herokuapp.com/ "Live Deploy")      
 
-![Screenshot]( "Proof of Application")      
+![Screenshot]https://github.com/carefree2706/theTechBlog/blob/main/tech-blog.png( "Proof of Application")      
 
 ## Code of Conduct
 
