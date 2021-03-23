@@ -1,10 +1,10 @@
 :root {
-    --primary: white;
-    --secondary: #c5ecaf;
-    --tertiary: #667272;
-    --light-dark: #b4adb4;
-    --dark: #201110;
-    --border-radius: .4rem;
+    --primary: #ccdad1;
+    --secondary: black;
+    --tertiary: #788585;
+    --light-dark: rgb(54, 38, 38);
+    --dark:rgb(117, 117, 238);
+    --border-radius: .3rem;
 }
 
 * {
@@ -15,7 +15,7 @@ body {
     background-color: var(--primary);
     margin: 0;
     padding: 0;
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: var(--dark);
     line-height: 1.5;
     font-size: 24px;

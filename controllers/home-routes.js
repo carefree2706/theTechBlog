@@ -21,6 +21,7 @@ router.get("/", (req, res) => {
   })
   .then(dbPostData => {
       const posts = dbPostData.map(post => post.get({ plain: true}));
+      console.log(posts)
       res.render('homepage', { posts,loggedIn: req.session.loggedIn});
   })
   .catch(err => {
@@ -41,7 +42,7 @@ router.get('/signup',(req,res)=> {
     res.render('signup');
 });
 
-router.get('/post/id', (req, res) =>{
+router.get('/post/:id', (req, res) =>{
     Post.findOne({
         where: {
             id: req.params.id
