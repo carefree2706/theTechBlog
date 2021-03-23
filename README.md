@@ -53,7 +53,8 @@ SOFTWARE.
 
 Live Deployed Application: [View Application](https://dry-cove-74526.herokuapp.com/ "Live Deploy")      
 
-![alt text]()
+![alt text](https://github.com/carefree2706/theTechBlog/blob/main/tech-blog.png)
+
 ## Code of Conduct
 
 [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
